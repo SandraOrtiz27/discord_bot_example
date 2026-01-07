@@ -1,4 +1,4 @@
-# dbot
+# discord AI Bot
 Discord bot that answers like a pirate
 
 # .env 
